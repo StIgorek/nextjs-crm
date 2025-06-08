@@ -1,4 +1,10 @@
 import React from "react";
+import './globals.css';
+
+export const metadata = {
+    title: 'CRM',
+    description: 'CRM program',
+};
 
 export default function RootLayout({
   children,
