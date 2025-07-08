@@ -1,4 +1,5 @@
 import React from 'react';
+import MagicButton from "@/app/components/magic-button";
 
 export interface PageProps {}
 
